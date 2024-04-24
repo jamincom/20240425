@@ -131,7 +131,8 @@ h7 {font-family: 'Pretendard Variable';
 z-index: 10;
  }
 .pb {padding-bottom: 300px;}
-.pbb {padding-bottom: 400px;}
+.pbb {padding-bottom: 500px;}
+.pbo {padding-bottom: 250px}
 .inff {
   display: block;
   margin: auto; /* 가운데 정렬을 위해 */
